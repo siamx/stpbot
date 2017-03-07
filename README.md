@@ -1,2 +1,2 @@
-# stpbot
+# **_STP Bot_**
 STP Messenger Bot
